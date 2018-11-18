@@ -1,2 +1,8 @@
 # mjirmath.github.io
-The home website for Mjir Math
+A lot of useful math things for students, created by a student(s)
+# Current Features
+## Speed Practice
+- Fractions
+# Planned Feauters
+- Mini-lessons
+- Addition, Subtraction, Multiplication, and Division practice
