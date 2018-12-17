@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Major+Mono+Display|Cutive+Mono');
+
+/*
+ * GENERAL STYLING
+ */
+body {margin: 0; background-color: #f5f5f5; overflow-x: hidden}
+p, h1, h2, h3, h4, h5, h6 {margin: 0}
+hr {border: none; background-color: #ccc; height: 1px}
+
+/*
+ * BANNER STYLING
+ */
+.banner {display: flex; justify-content: center; align-items: center; width: 100vw; height: 75vh}
+.banner .textbox {font-size: 72px; font-family: "Major Mono Display", sans-serif}
+.banner .textbox h1::selection {background: none}
