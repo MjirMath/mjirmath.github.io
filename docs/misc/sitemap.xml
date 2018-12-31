@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset smlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<!-- Homepage -->
+<url>
+<loc>https://mjirmath.github.io/</loc>
+</url>
+<!-- Skills Homepage -->
+<url>
+<loc>https://mjirmath.github.io/skills/</loc>
+</url>
+	<!-- Addition -->
+	<url>
+	<loc>https://mjirmath.github.io/skills/addition/</loc>
+	</url>
+</urlset>
